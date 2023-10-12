@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Riccardo' Homepage"
+title                    : "Riccardo's Homepage"
 title_separator          : "-"
 name                     : &name "Riccardo Valperga"
 description              : &description "personal description"
