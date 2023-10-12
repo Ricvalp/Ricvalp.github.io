@@ -86,7 +86,7 @@ author:
   location         : "University of Amsterdam"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "scholar.google.com/citations?user=IK64D1wAAAAJ&hl=nl"
+  googlescholar    : "https://scholar.google.com/citations?hl=it&user=IK64D1wAAAAJ"
   email            : "r.valperga@uva.nl"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the Informatics Institute of the University of Amsterdam supervised by Efstratios Gavves an. I studied Physics at the University of Turin where I graduated cum laude and Physics at the Imperial College where I graduated with first class honours. My research focuses on the intersection of Dynamical systems and Deep Learning. 
+I am a PhD student at the Informatics Institute of the University of Amsterdam supervised by Efstratios Gavves an. I studied Physics at the University of Turin where I graduated cum laude and Physics at the Imperial College where I graduated with first class honours. My research focuses on the intersection of Dynamical systems and Deep Learning. My interests also lie in applied Geometry for computer vision and representation learning.
 
 <!-- A data-driven personal website
 ======
