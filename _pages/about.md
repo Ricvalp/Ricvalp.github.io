@@ -10,48 +10,35 @@ redirect_from:
 
 I am a PhD student at the Informatics Institute of the University of Amsterdam supervised by Efstratios Gavves an. I studied Physics at the University of Turin where I graduated cum laude and Physics at the Imperial College where I graduated with first class honours. My research focuses on the intersection of Dynamical systems and Deep Learning. My interests also lie in applied Geometry for computer vision and representation learning.
 
-<!-- A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html). -->
-
 Publications
 ======
-### Learning Reversible Symplectic Dynamics
 
-<span style="color:gray"; font-size:18px;> Time-reversal symmetry arises naturally as a structural property in many dynamical systems of interest. While the importance of hard-wiring symmetry is increasingly recognized in machine learning, to date this has eluded time-reversibility. In this paper, we propose a new neural network architecture for learning time-reversible dynamical systems from data. We focus in particular on an adaptation to symplectic systems, because of their importance in physics-informed learning.
+* ## [Learning Reversible Symplectic Dynamics](https://proceedings.mlr.press/v168/valperga22a.html)
 
-<span style="color:gray"; font-size:18px;> Riccardo Valperga, Kevin Webster, Dmitry Turaev, Victoria Klein, Jeroen Lamb Proceedings of The 4th Annual Learning for Dynamics and Control Conference, PMLR 168:906-916, 2022. </span>
+*Time-reversal symmetry arises naturally as a structural property in many dynamical systems of interest. While the importance of hard-wiring symmetry is increasingly recognized in machine learning, to date this has eluded time-reversibility. In this paper, we propose a new neural network architecture for learning time-reversible dynamical systems from data. We focus in particular on an adaptation to symplectic systems, because of their importance in physics-informed learning.* **(oral)**
+
+Riccardo Valperga, Kevin Webster, Dmitry Turaev, Victoria Klein, Jeroen Lamb Proceedings of The 4th Annual Learning for Dynamics and Control Conference, PMLR 168:906-916, 2022.
+
+* ## [Learning Lie Group Symmetry Transformations with Neural Networks](https://arxiv.org/abs/2307.01583)
+
+*The problem of detecting and quantifying the presence of symmetries in datasets is useful for model selection, generative modeling, and data analysis, amongst others. While existing methods for hard-coding transformations in neural networks require prior knowledge of the symmetries of the task at hand, this work focuses on discovering and characterising unknown symmetries present in the dataset, namely, Lie group symmetry transformations beyond the traditional ones usually considered in the field (rotation, scaling, and translation).*
+
+Alex Gabel\*, Victoria Klein\*, Riccardo Valperga\*, Jeroen S. W. Lamb, Kevin Webster, Rick Quax Efstratios Gavves 
+
+Proceedings of the 2 nd Annual Workshop on Topology, Algebra, and Geometry in Machine Learning (TAG-ML) at the 40th In- ternational Conference on Machine Learning
+
+* ## [Geometric Contrastive Learning](https://openreview.net/forum?id=cE4BY5XrzR)
+
+*Contrastive learning has been a long-standing research area due to its versatility and importance in learning representations. Recent works have shown improved results if the learned representations are constrained to be on a hy- persphere. However, this prior geometric constraint is not fully utilized during training. In this work, we propose mak- ing use of geodesic distances on the hypersphere to learn contrasts between representations.* **(oral)**
+
+Proceedings of the 4th Visual Inductive Priors for Data-Efficient Deep Learning Workshop at ICCV 2023
+
+Yeskendir Koishekenov, Sharvaree Vadgama\*, Riccardo Valperga\*, Erik J. Bekkers
 
 
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section 
+* ## [Neural Modulation Fields for Conditional Cone Beam Neural Tomography](https://arxiv.org/abs/2307.08351)
 
-<!-- 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.  -->
+*Conventional Computed Tomography (CT) methods require large numbers of noise-free projections for accurate density reconstructions, limiting their applicability to the more complex class of Cone Beam Geometry CT (CBCT) reconstruction. We propose a novel conditioning method where local modulations are modeled per patient as a field over the input domain through a Neural Modulation Field (NMF). The resulting Conditional Cone Beam Neural Tomography (CondCBNT) shows improved performance for both high and low numbers of available projections on noise-free and noisy data.*
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Samuele Papa, David M Knigge, Riccardo Valperga, Nikita Moriakov, Miltos Kofinas, Jan-Jakob Sonke, Efstratios Gavves
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
