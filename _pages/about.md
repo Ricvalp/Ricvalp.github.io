@@ -18,7 +18,13 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Publications
 ======
-1. Learning Dynamics 
+### Learning Reversible Symplectic Dynamics
+
+<span style="color:gray"; font-size:18px;> Time-reversal symmetry arises naturally as a structural property in many dynamical systems of interest. While the importance of hard-wiring symmetry is increasingly recognized in machine learning, to date this has eluded time-reversibility. In this paper, we propose a new neural network architecture for learning time-reversible dynamical systems from data. We focus in particular on an adaptation to symplectic systems, because of their importance in physics-informed learning.
+
+<span style="color:gray"; font-size:18px;> Riccardo Valperga, Kevin Webster, Dmitry Turaev, Victoria Klein, Jeroen Lamb Proceedings of The 4th Annual Learning for Dynamics and Control Conference, PMLR 168:906-916, 2022. </span>
+
+
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
