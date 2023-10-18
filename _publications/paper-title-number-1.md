@@ -1,8 +1,7 @@
 ---
 title: "Learning Reversible Symplectic Dynamics"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-date: 2020-06-01
+permalink: /publication/paper-title-number-1
 venue: 'Proceedings of The 4th Annual Learning for Dynamics and Control Conference, PMLR 168:906-916, 2022'
 paperurl: 'https://proceedings.mlr.press/v168/valperga22a.html'
 ---
