@@ -3,7 +3,7 @@ title: "Neural Modulation Fields for Conditional Cone Beam Neural Tomography"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2020-06-01
-venue: 'Journal 1'
+venue: 'Accepted at the 1st workshop on Synergy of Scientific and Machine Learning Modeling, SynS & ML ICML.'
 paperurl: 'https://arxiv.org/abs/2307.08351'
 ---
 
@@ -13,9 +13,6 @@ paperurl: 'https://arxiv.org/abs/2307.08351'
   <img src="cbct.png" width="300"/>
 </p>
 
-
-[Download paper here](https://arxiv.org/abs/2307.08351)
-
 Samuele Papa, David M Knigge, Riccardo Valperga, Nikita Moriakov, Miltos Kofinas, Jan-Jakob Sonke, Efstratios Gavves
 
-Accepted at the 1st workshop on Synergy of Scientific and Machine Learning Modeling, SynS & ML ICML.
+

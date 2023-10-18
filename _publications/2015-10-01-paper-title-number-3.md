@@ -3,7 +3,7 @@ title: "Geometric Contrastive Learning"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2020-06-01
-venue: 'Journal 1'
+venue: 'Proceedings of the 4th Visual Inductive Priors for Data-Efficient Deep Learning Workshop at ICCV 2023'
 paperurl: 'https://openreview.net/pdf?id=cE4BY5XrzR'
 ---
 
@@ -12,9 +12,5 @@ paperurl: 'https://openreview.net/pdf?id=cE4BY5XrzR'
 <p align="center">
   <img src="geometric-contrastive-learning.png" width="300"/>
 </p>
-
-[Download paper here](https://openreview.net/pdf?id=cE4BY5XrzR)
-
-Proceedings of the 4th Visual Inductive Priors for Data-Efficient Deep Learning Workshop at ICCV 2023
 
 Yeskendir Koishekenov, Sharvaree Vadgama\*, Riccardo Valperga\*, Erik J. Bekkers
