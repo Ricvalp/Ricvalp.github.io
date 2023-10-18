@@ -19,6 +19,11 @@ Publications
 
 Riccardo Valperga, Kevin Webster, Dmitry Turaev, Victoria Klein, Jeroen Lamb Proceedings of The 4th Annual Learning for Dynamics and Control Conference, PMLR 168:906-916, 2022.
 
+<img src="images/prifile.png" style="float: right; margin: 0 0 10px 10px;"/>
+
+
+
+
 * ## [Learning Lie Group Symmetry Transformations with Neural Networks](https://arxiv.org/abs/2307.01583)
 
 *The problem of detecting and quantifying the presence of symmetries in datasets is useful for model selection, generative modeling, and data analysis, amongst others. While existing methods for hard-coding transformations in neural networks require prior knowledge of the symmetries of the task at hand, this work focuses on discovering and characterising unknown symmetries present in the dataset, namely, Lie group symmetry transformations beyond the traditional ones usually considered in the field (rotation, scaling, and translation).*
