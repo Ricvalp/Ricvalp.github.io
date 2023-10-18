@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, Universita' degli Studi di Torino, 2016 - 2019
-* M.Sc. in Physics, Imperial College London, 2019 - 2021
+* B.S. in Physics, Universita' degli Studi di Torino, 2016 - 2019, 110/110 cum laude
+* M.Sc. in Physics, Imperial College London, 2019 - 2021, First Class Honour
 * Ph.D candidate in Deep Learning, University of Amsterdam, 2021 - present
 
 Skills
@@ -24,5 +24,5 @@ Skills
 
 Teaching
 ======
-  <ul>Deep Learning, Machine Learning acourses at UvA.</ul>
+  <ul>Deep Learning and Machine Learning courses at UvA.</ul>
   
