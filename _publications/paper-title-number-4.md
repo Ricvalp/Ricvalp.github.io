@@ -3,6 +3,7 @@ title: "Neural Modulation Fields for Conditional Cone Beam Neural Tomography"
 collection: publications
 permalink: /publication/paper-title-number-4
 venue: 'Accepted at the 1st workshop on Synergy of Scientific and Machine Learning Modeling, SynS & ML ICML.'
+date: '2023'
 paperurl: 'https://arxiv.org/abs/2307.08351'
 image_path: 'cbct.png'
 ---

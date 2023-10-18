@@ -3,6 +3,7 @@ title: "Learning Lie Group Symmetry Transformations with Neural Networks"
 collection: publications
 permalink: /publication/paper-title-number-2
 venue: 'Proceedings of the 2nd Annual Workshop on Topology, Algebra, and Geometry in Machine Learning (TAG-ML) at the 40th In- ternational Conference on Machine Learning'
+date: '2023'
 paperurl: 'https://arxiv.org/abs/2307.01583'
 image_path: 'learning-symmetries.png'
 ---

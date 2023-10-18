@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/paper-title-number-3
 venue: 'Proceedings of the 4th Visual Inductive Priors for Data-Efficient Deep Learning Workshop at ICCV 2023'
 paperurl: 'https://openreview.net/pdf?id=cE4BY5XrzR'
+date: '2023'
 image_path: 'geometric-contrastive-learning.png'
 ---
 
