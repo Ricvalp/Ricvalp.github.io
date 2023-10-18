@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the Informatics Institute of the University of Amsterdam supervised by Efstratios Gavves an. I studied Physics at the University of Turin where I graduated cum laude and Physics at the Imperial College where I graduated with first class honours. My research focuses on the intersection of Dynamical systems and Deep Learning. My interests also lie in applied Geometry for computer vision and representation learning.
+### I am a PhD student at the Informatics Institute of the University of Amsterdam supervised by Efstratios Gavves an. I studied Physics at the University of Turin where I graduated cum laude and Physics at the Imperial College where I graduated with first class honours. My research focuses on the intersection of Dynamical systems and Deep Learning. My interests also lie in applied Geometry for computer vision and representation learning.
 
+
+<!-- 
 Publications
 ======
 
@@ -44,4 +46,4 @@ Yeskendir Koishekenov, Sharvaree Vadgama\*, Riccardo Valperga\*, Erik J. Bekkers
 
 Samuele Papa, David M Knigge, Riccardo Valperga, Nikita Moriakov, Miltos Kofinas, Jan-Jakob Sonke, Efstratios Gavves
 
-Accepted at the 1st workshop on Synergy of Scientific and Machine Learning Modeling, SynS & ML ICML.
+Accepted at the 1st workshop on Synergy of Scientific and Machine Learning Modeling, SynS & ML ICML. -->
