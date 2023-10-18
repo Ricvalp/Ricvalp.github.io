@@ -1,15 +1,23 @@
 ---
-title: "Paper Title Number 2"
+title: "Learning Lie Group Symmetry Transformations with Neural Networks"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+permalink: /publication/2009-10-01-paper-title-number-1
+date: 2020-06-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'https://proceedings.mlr.press/v168/valperga22a.html'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+*The problem of detecting and quantifying the presence of symmetries in datasets is useful for model selection, generative modeling, and data analysis, amongst others. While existing methods for hard-coding transformations in neural networks require prior knowledge of the symmetries of the task at hand, this work focuses on discovering and characterising unknown symmetries present in the dataset, namely, Lie group symmetry transformations beyond the traditional ones usually considered in the field (rotation, scaling, and translation).*
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+<p align="center">
+  <img src="learning-symmetries.png" width="300"/>
+</p>
+
+[Download paper here](https://arxiv.org/abs/2307.01583)
+
+
+Alex Gabel\*, Victoria Klein\*, Riccardo Valperga\*, Jeroen S. W. Lamb, Kevin Webster, Rick Quax Efstratios Gavves 
+
+Proceedings of the 2nd Annual Workshop on Topology, Algebra, and Geometry in Machine Learning (TAG-ML) at the 40th In- ternational Conference on Machine Learning
+
+

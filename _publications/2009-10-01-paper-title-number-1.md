@@ -1,15 +1,20 @@
 ---
-title: "Paper Title Number 1"
+title: "Learning Reversible Symplectic Dynamics"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2020-06-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://proceedings.mlr.press/v168/valperga22a.html'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+*Time-reversal symmetry arises naturally as a structural property in many dynamical systems of interest. While the importance of hard-wiring symmetry is increasingly recognized in machine learning, to date this has eluded time-reversibility. In this paper, we propose a new neural network architecture for learning time-reversible dynamical systems from data. We focus in particular on an adaptation to symplectic systems, because of their importance in physics-informed learning.* **(oral)**
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
+<p align="center">
+  <img src="learning-reversible-dynamics.png" width="300"/>
+</p>
+
+
+[Download paper here](https://proceedings.mlr.press/v168/valperga22a.html)
+
+Riccardo Valperga, Kevin Webster, Dmitry Turaev, Victoria Klein, Jeroen Lamb Proceedings of The 4th Annual Learning for Dynamics and Control Conference, PMLR 168:906-916, 2022.
