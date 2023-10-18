@@ -33,10 +33,6 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-    
-    <div style="display:flex;justify-content: center;align-items: center;">
-      <img width="33%" src="{{ post.image_path }}" alt="post_image">
-    </div>
 
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
@@ -61,6 +57,10 @@
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% endif %}
+
+    <div style="display:flex;justify-content: center;align-items: center;">
+      <img width="33%" src="{{ post.image_path }}" alt="post_image">
+    </div>
 
   </article>
 </div>
