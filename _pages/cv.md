@@ -25,4 +25,6 @@ Skills
 Teaching
 ======
   <ul>Deep Learning and Machine Learning courses at UvA.</ul>
-  
+
+======
+<ul>[Download CV](CV_RiccardoValperga.pdf)</ul>
