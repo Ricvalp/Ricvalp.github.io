@@ -2,7 +2,7 @@
 title: "Ai-sampler: Adversarial Learning of Markov kernels with involutive maps"
 collection: publications
 permalink: /publication/2024-05-01-paper-title-number-6
-venue: 'Accepted at ICML 2024'
+venue: 'Accepted at ICML'
 paperurl: 'https://arxiv.org/pdf/2312.10531'
 image_path: '/images/aisampler.png'
 ---
