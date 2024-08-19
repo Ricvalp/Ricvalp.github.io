@@ -9,6 +9,7 @@ image_path: '/images/learning-symmetries.png'
 
 *The problem of detecting and quantifying the presence of symmetries in datasets is useful for model selection, generative modeling, and data analysis, amongst others. While existing methods for hard-coding transformations in neural networks require prior knowledge of the symmetries of the task at hand, this work focuses on discovering and characterising unknown symmetries present in the dataset, namely, Lie group symmetry transformations beyond the traditional ones usually considered in the field (rotation, scaling, and translation).*
 
+[PDF](https://arxiv.org/abs/2307.01583)
 
 Alex Gabel\*, Victoria Klein\*, Riccardo Valperga\*, Jeroen S. W. Lamb, Kevin Webster, Rick Quax Efstratios Gavves 
 
