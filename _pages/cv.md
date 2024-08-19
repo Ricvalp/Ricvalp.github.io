@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +7,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Experience
+======
+* Research intern, ServiceNow, Montreal, 2024 - present
 
 Education
 ======
