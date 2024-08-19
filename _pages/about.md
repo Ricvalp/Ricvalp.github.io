@@ -8,8 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the Informatics Institute of the University of Amsterdam supervised by [Efstratios Gavves](https://www.egavves.com). I studied Physics at the University of Turin where I graduated cum laude and Physics at the Imperial College where I graduated with first class honours. My research focuses on the intersection of Dynamical systems and Deep Learning. My interests also lie in applied Geometry for computer vision and representation learning.
+I am a PhD student at the Informatics Institute of the University of Amsterdam supervised by [Efstratios Gavves](https://www.egavves.com). I studied Physics at the University of Turin where I graduated cum laude and Physics at the Imperial College where I graduated with first class honours. My research focuses on the intersection of Dynamical systems and Deep Learning. My interests also lie in applied Geometry for computer vision and representation learning. I am currently doing a research internship at [ServiceNow](https://www.google.com/search?client=safari&rls=en&q=Element+ai&ie=UTF-8&oe=UTF-8) where I am working on causal discovery from time series.
 
+## News
+
+**[Aug 2024]** I am joined [ServiceNow](https://www.google.com/search?client=safari&rls=en&q=Element+ai&ie=UTF-8&oe=UTF-8) in Montreal as a research intern working on causal discovery from time-series.
+
+**[May 2024]** Our work [Ai-sampler: Adversarial Learning of Markov kernels with involutive maps](https://arxiv.org/pdf/2406.02490) has been accepted at ICML 2024. See you in Vienna!
+
+**[Feb 2024]** Our work [How to Train Neural Field Representations: A Comprehensive Study and Benchmark](https://arxiv.org/abs/2312.10531) has been accepted at CVPR 2024!
+
+**[Jan 2024]** Our [library](https://github.com/samuelepapa/fit-a-nef) and [neural field arena](https://github.com/samuelepapa/neural-field-arena) for efficient training of implicit representations and benchmarking downstream models is out.
+
+**[Jul 2023]** Our work [Geometric Contrastive Learning](https://ricvalp.github.io/publication/2023-07-01-paper-title-number-3) has been accepted as an oral at Proceedings of the 4th Visual Inductive Priors for Data-Efficient Deep Learning Workshop at ICCV 2023.
+
+**[May 2023]** Our work on Learning [Lie Group Symmetry Transformations with Neural Networks](https://ricvalp.github.io/publication/2023-07-01-paper-title-number-2) has been accepted at the Proceedings of the 2nd Annual Workshop on Topology, Algebra, and Geometry in Machine Learning (TAG-ML) at the 40th ICML, 2023
+
+**[May 2023]** Our work [Neural Modulation Fields for Conditional Cone Beam Neural Tomography](https://ricvalp.github.io/publication/2023-07-01-paper-title-number-4) has been accepted at the 1st workshop on Synergy of Scientific and Machine Learning Modeling, SynS & ML at ICML.
+
+**[Jun 2022]** I am presenting my work on [Learning Time-Reversible Dynamics](https://ricvalp.github.io/publication/2022-07-01-paper-title-number-1) accepted as oral at the fourth Learning for Dynamcis and Control (L4DC) conference.
 
 <!--
 Publications
