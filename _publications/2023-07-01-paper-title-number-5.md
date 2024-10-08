@@ -2,7 +2,7 @@
 title: "How to Train Neural Field Representations: A Comprehensive Study and Benchmark"
 collection: publications
 permalink: /publication/2024-02-01-paper-title-number-5
-venue: 'Accepted at CVPR'
+venue: 'CVPR'
 paperurl: 'https://arxiv.org/pdf/2312.10531'
 image_path: '/images/fit-a-nef.png'
 ---

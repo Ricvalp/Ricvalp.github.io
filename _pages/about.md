@@ -12,7 +12,9 @@ I am a PhD student at the Informatics Institute of the University of Amsterdam s
 
 ## News
 
-**[Aug 2024]** I am joined [ServiceNow](https://www.google.com/search?client=safari&rls=en&q=Element+ai&ie=UTF-8&oe=UTF-8) in Montreal as a research intern working on causal discovery from time-series.
+**[Sep 2024]** Our work [Space-Time Continuous PDE Forecasting using Equivariant Neural Fields](https://arxiv.org/abs/2406.06660) has been accepted at NeurIPS 2024!.
+
+**[Aug 2024]** I joined [ServiceNow](https://www.google.com/search?client=safari&rls=en&q=Element+ai&ie=UTF-8&oe=UTF-8) in the beautiful Montreal as a research intern working on time-series and causal discovery.
 
 **[May 2024]** Our work [Ai-sampler: Adversarial Learning of Markov kernels with involutive maps](https://arxiv.org/pdf/2406.02490) has been accepted at ICML 2024. See you in Vienna!
 
