@@ -2,7 +2,7 @@
 title: "Geometric Contrastive Learning"
 collection: publications
 permalink: /publication/2023-07-01-paper-title-number-3
-venue: 'Proceedings of the 4th Visual Inductive Priors for Data-Efficient Deep Learning Workshop at ICCV 2023'
+venue: 'Proceedings of the 4th Visual Inductive Priors for Data-Efficient Deep Learning Workshop at ICCV'
 paperurl: 'https://openreview.net/pdf?id=cE4BY5XrzR'
 image_path: '/images/geometric-contrastive-learning.png'
 ---
