@@ -30,6 +30,12 @@ I am a PhD student at the Informatics Institute of the University of Amsterdam s
 
 **[Jun 2022]** I am presenting my work on [Learning Time-Reversible Dynamics](https://ricvalp.github.io/publication/2022-07-01-paper-title-number-1) accepted as oral at the fourth Learning for Dynamcis and Control (L4DC) conference.
 
+
+## FOMO research project
+
+The long version of the [project proposal](/files/project_proposal.pdf) for the [UvA Foundation Models course](https://uvafomo.github.io).
+
+
 <!--
 Publications
 ======
